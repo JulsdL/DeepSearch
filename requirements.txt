@@ -1,0 +1,4 @@
+openai
+aiohttp
+gradio
+python-dotenv
